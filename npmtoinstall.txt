@@ -1,0 +1,5 @@
+CLIENT
+npm install @mui/icons-material @mui/material @emotion/react @emotion/styled axios
+
+SERVER
+npm install concurrently axios morgan moongose nodemon
